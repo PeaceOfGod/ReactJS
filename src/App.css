@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+#butt {
+  border: 1px solid pink;
+  color: white;
+  padding: 10px 24px;
+  float: left;
+}
+
+#previous {
+  padding: 5px 7px;
+  margin: 10px;
+  background-color: red;
+}
+
+#proceed {
+  padding: 5px 7px;
+  margin: 10px;
+  background-color: royalblue;
+}
